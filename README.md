@@ -1,8 +1,6 @@
 ## See Screenshots 
 
-```bash
-https://drive.google.com/drive/folders/1d77rXjRgZbfRiWcwZuZA9xsXlm2jrdyX
-```
+[Access Screenshots](https://drive.google.com/drive/folders/1d77rXjRgZbfRiWcwZuZA9xsXlm2jrdyX)
 
 # Welcome to your Expo app 👋
 
