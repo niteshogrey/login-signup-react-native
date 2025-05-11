@@ -1,6 +1,6 @@
 ## See Screenshots 
 
-[Access Screenshots](https://drive.google.com/drive/folders/1d77rXjRgZbfRiWcwZuZA9xsXlm2jrdyX)
+[Click to see screenshots](https://drive.google.com/drive/folders/1d77rXjRgZbfRiWcwZuZA9xsXlm2jrdyX)
 
 # Welcome to your Expo app 👋
 
